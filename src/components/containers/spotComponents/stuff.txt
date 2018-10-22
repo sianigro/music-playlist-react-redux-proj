@@ -1,0 +1,33 @@
+// import AlbumList from './AlbumList/component';
+// import ArtistList from './ArtistList/component';
+// import ArtWork from './ArtWork/component';
+// import BrowseView from './BrowseView/component';
+// import SpotFooter from './SpotFooter/SpotFooter.spec';
+// import SpotHeader from './SpotHeader/SpotHeader.spec';
+// import MainHeader from './MainHeader/component';
+// import MainView from './MainView/component';
+// import SideMenu from './SideMenu/component';
+// import SongControls from './SongControls/component';
+// import SongList from './SongList/component';
+// import TrackSearch from './TrackSearch/component';
+// import UserDetails from './UserDetails/component';
+// import UserPlaylists from './UserPlaylists/component';
+// import VolumeControls from './VolumeControls/component';
+
+// export {
+//   AlbumList,
+//   ArtistList,
+//   ArtWork,
+//   BrowseView,
+//   SpotFooter,
+//   SpotHeader,
+//   MainHeader,
+//   MainView,
+//   SideMenu,
+//   SongControls,
+//   SongList,
+//   TrackSearch,
+//   UserDetails,
+//   UserPlaylists,
+//   VolumeControls
+// };
